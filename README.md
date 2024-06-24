@@ -1,5 +1,4 @@
-# Facial Emotion Recognition Project - README
-
+# Facial Emotion Recognition Project 
 
 ### Overview
 
@@ -184,4 +183,8 @@ It seems like you have provided code snippets for several functions and processe
    - Enhance user interaction and feedback mechanisms for better usability and performance.
 
 
+### Contribution
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
+### Contact
+For any inquiries or support, please contact [za.shahlaie@gmail.com](mailto:za.shahlaie@gmail.com).
